@@ -1,2 +1,3 @@
 # qiwi-upload-script
-i made this with barely any sleep
+I made this on barely any sleep
+it works but will be making it better when i remember about this script again lol
